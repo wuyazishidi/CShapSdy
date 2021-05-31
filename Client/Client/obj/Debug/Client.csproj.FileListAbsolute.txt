@@ -1,0 +1,7 @@
+E:\Study\CShapSdy\Client\Client\bin\Debug\Client.exe.config
+E:\Study\CShapSdy\Client\Client\bin\Debug\Client.exe
+E:\Study\CShapSdy\Client\Client\bin\Debug\Client.pdb
+E:\Study\CShapSdy\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Study\CShapSdy\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Study\CShapSdy\Client\Client\obj\Debug\Client.exe
+E:\Study\CShapSdy\Client\Client\obj\Debug\Client.pdb

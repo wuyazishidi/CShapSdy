@@ -1,0 +1,7 @@
+E:\Study\CShapSdy\LinearList\LinearList\bin\Debug\LinearList.exe.config
+E:\Study\CShapSdy\LinearList\LinearList\bin\Debug\LinearList.exe
+E:\Study\CShapSdy\LinearList\LinearList\bin\Debug\LinearList.pdb
+E:\Study\CShapSdy\LinearList\LinearList\obj\Debug\LinearList.csprojAssemblyReference.cache
+E:\Study\CShapSdy\LinearList\LinearList\obj\Debug\LinearList.csproj.CoreCompileInputs.cache
+E:\Study\CShapSdy\LinearList\LinearList\obj\Debug\LinearList.exe
+E:\Study\CShapSdy\LinearList\LinearList\obj\Debug\LinearList.pdb

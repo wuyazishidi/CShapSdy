@@ -1,0 +1,7 @@
+E:\Study\CShapSdy\Sever\Sever\bin\Debug\Sever.exe.config
+E:\Study\CShapSdy\Sever\Sever\bin\Debug\Sever.exe
+E:\Study\CShapSdy\Sever\Sever\bin\Debug\Sever.pdb
+E:\Study\CShapSdy\Sever\Sever\obj\Debug\Sever.csprojAssemblyReference.cache
+E:\Study\CShapSdy\Sever\Sever\obj\Debug\Sever.csproj.CoreCompileInputs.cache
+E:\Study\CShapSdy\Sever\Sever\obj\Debug\Sever.exe
+E:\Study\CShapSdy\Sever\Sever\obj\Debug\Sever.pdb
